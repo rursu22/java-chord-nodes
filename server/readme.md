@@ -1,5 +1,12 @@
 Start the DHT with 
 
 ```
-javac DistributedHashTable.java
+java DistributedHashTable.java
+```
+
+
+Start a Chord Node with
+
+```
+java ChordNode.java
 ```
