@@ -1,5 +1,5 @@
-Start the server with 
+Start the DHT with 
 
 ```
-javac RestKit.java
+javac DistributedHashTable.java
 ```
