@@ -3,6 +3,7 @@ Java implementation of the Chord protocol and algorithm, with added distributed 
 
 Allows for uploading of different file types to the Chord back-end, which will do different analysis depending on the file type that it has received, and send the result back to the front-end.
 
+! RMIRegistry needs to be running before running the front-end and back-end.
 
 ### Features
 
